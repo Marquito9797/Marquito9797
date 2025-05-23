@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Marcos Vinicius
 
-Sou um profissional em transição para a área de **Qualidade de Software (QA)** com experiência sólida em **Suporte Técnico** e **sistemas administrativos**. Tenho trabalhado com análise e resolução de problemas, testes manuais, apoio a usuários e levantamento de melhorias em sistemas.
+Sou um profissional em transição para a área de **Qualidade de Software (QA)** com experiência em **Suporte Técnico** e **sistemas administrativos**. Tenho trabalhado com análise e resolução de problemas, testes manuais, apoio a usuários e levantamento de melhorias em sistemas.
 
 Atualmente, estou aprofundando meus conhecimentos em automação de testes com **Cypress**, além de aprimorar minha base em **HTML**, **CSS** e **JavaScript**, para entender melhor o comportamento das aplicações web e desenvolver testes mais eficientes.
 
