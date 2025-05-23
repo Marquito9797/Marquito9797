@@ -1,38 +1,45 @@
-## 👋 Olá, eu sou o Marcos Vinicius
+<h1 align="center">👋 Olá, eu sou o Marcos Vinicius</h1>
 
-Sou um profissional em transição para a área de **Qualidade de Software (QA)** com experiência em **Suporte Técnico** e **sistemas administrativos**. Tenho trabalhado com análise e resolução de problemas, testes manuais, apoio a usuários e levantamento de melhorias em sistemas.
-
-Atualmente, estou aprofundando meus conhecimentos em automação de testes com **Cypress**, além de aprimorar minha base em **HTML**, **CSS** e **JavaScript**, para entender melhor o comportamento das aplicações web e desenvolver testes mais eficientes.
-
----
-
-### 🧠 Estou aprendendo
-
-- ✅ Automação de testes com **Cypress**
-- ✅ Fundamentos de **Testes de Software**
-- ✅ **HTML**, **CSS** e **JavaScript** para criação de casos de teste mais contextualizados
+<p align="center">
+  Profissional em transição para <strong>QA</strong>, com experiência em <strong>suporte técnico</strong> e <strong>testes manuais</strong>.<br>
+  Estudo automação com <strong>Cypress</strong> e aprimoro conhecimentos em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> para criar testes mais eficazes.
+</p>
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
+### 🧠 Atualmente aprendendo:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" />
+- 🔹 Automação de testes com **Cypress**
+- 🔹 Fundamentos de **Testes de Software**
+- 🔹 **HTML**, **CSS** e **JavaScript** para testes mais contextualizados
+
+---
+
+### 📊 Meu status no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marquito9797&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=6&border_color=30363d&icon_color=58a6ff&theme=dark" alt="GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marquito9797&layout=compact&card_width=290&langs_count=4&count_private=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=6" alt="Most Used Languages" />
 </div>
 
 ---
 
-### 📚 Certificados & Cursos
+### 🛠️ Tecnologias e Ferramentas
 
-![Bootcamp QAzando](https://img.shields.io/badge/Bootcamp-QAzando-green?style=for-the-badge)
-![Curso de Cypress](https://img.shields.io/badge/Cypress-Testing-blue?style=for-the-badge)
-![Curso de HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Básico-orange?style=for-the-badge)
+<div align="center">
+  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Cypress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake.svg">
+---
+
+### 🐍 Snake Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake.svg" />
 </picture>
