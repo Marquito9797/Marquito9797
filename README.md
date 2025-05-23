@@ -25,34 +25,11 @@ Atualmente, estou aprofundando meus conhecimentos em automação de testes com *
 
 ---
 
-### 💼 Experiência Relevante
-
-- **Suporte a sistemas de gestão escolar e ERP** (Radar e GEO)
-- **Testes manuais e verificação de bugs**
-- **Elaboração de relatórios técnicos**
-- **Treinamento de usuários e apoio à área administrativa**
-- **Participação em reuniões de melhoria de sistemas**
-
----
-
 ### 📚 Certificados & Cursos
 
 ![Bootcamp QAzando](https://img.shields.io/badge/Bootcamp-QAzando-green?style=for-the-badge)
 ![Curso de Cypress](https://img.shields.io/badge/Cypress-Testing-blue?style=for-the-badge)
 ![Curso de HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Básico-orange?style=for-the-badge)
-
-### 📫 Vamos nos conectar!
-
-<p>
-  <a href="mailto:mvporto97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-vinicius-1831a6165/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🚀 Objetivo
 
