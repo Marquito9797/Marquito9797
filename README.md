@@ -31,6 +31,8 @@ Atualmente, estou aprofundando meus conhecimentos em automação de testes com *
 ![Curso de Cypress](https://img.shields.io/badge/Cypress-Testing-blue?style=for-the-badge)
 ![Curso de HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Básico-orange?style=for-the-badge)
 
-### 🚀 Objetivo
-
-Busco oportunidades como **Analista de Testes Júnior** ou **Suporte Técnico com foco em QA**, onde eu possa aplicar minha experiência prática e continuar aprendendo sobre automação, qualidade de software e desenvolvimento web.
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marquito9797/Marquito9797/output/github-contribution-grid-snake.svg">
+</picture>
