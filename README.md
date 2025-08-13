@@ -1,30 +1,36 @@
-# 👋 Olá, eu sou o Marcos Vinicius  
+# ​ Olá, eu sou o Marcos Vinicius
 
-💻 **Analista de QA** focado em **testes manuais e automação**, atuando com **APIs, Web, Mobile e POS**.  
-🚀 Experiência em **Postman, Cypress, YouTrack, SQL** e metodologias **Scrum** e **Kanban**.  
-📚 Sempre aprendendo mais sobre **testes automatizados** e **boas práticas de QA**.  
+**Analista de QA em formação (foco em testes manuais e automação)**  
+Atualmente estudando **Cypress**, **HTML**, **CSS**, **JavaScript**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Vinicius-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-1831a6165/)
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 📚 Certificações e Cursos
-![API Fundamentals Student Expert](https://img.shields.io/badge/API_Fundamentals_Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API Testing Path](https://img.shields.io/badge/API_Testing_Path-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bootcamp QAzando](https://img.shields.io/badge/Bootcamp-QAzando-blue?style=for-the-badge)
+##  Projetos em Destaque
+- [**Estudos-QA**](https://github.com/Marquito9797/Estudos-QA) – anotações e descobertas envolvendo bugs e testes.
+- [**gms-test**](https://github.com/Marquito9797/gms-test) – automação com JavaScript.
+- [**Curriculo-CSS**](https://github.com/Marquito9797/Curriculo-CSS) – currículo online construído com HTML, CSS e JavaScript.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula)
+##  Meus GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marquito9797&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquito9797&layout=compact&theme=radical)
 
 ---
-💬 _"Testar não é apenas encontrar erros, é garantir qualidade."_  
+
+> _"Testar não é apenas encontrar erros, é garantir qualidade."_
+
+---
+
